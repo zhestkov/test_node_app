@@ -1,0 +1,6 @@
+# common
+node_modules/
+.selenium/
+
+# macOS
+.DS_Store
